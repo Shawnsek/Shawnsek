@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**Shawnsek/Shawnsek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Shawn Sekhon</h1>
 <h3 align="center">🌐 Passionate about backend development and web applications.</h3>
 
